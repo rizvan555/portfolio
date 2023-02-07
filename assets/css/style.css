@@ -21,14 +21,12 @@
   height: 1080px;
   margin-bottom: 118px;
 }
-
 .page2 {
   font-family: "Work Sans";
 }
 .page2 main {
   padding: 150px 750px 291px 243px;
 }
-
 .page2 h1 {
   text-align: center;
   font-style: normal;
@@ -336,7 +334,6 @@
   width: 20px;
   animation: scaling 2s infinite;
 }
-
 @keyframes scaling {
   0% {
     transform: scale(1);
